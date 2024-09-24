@@ -37,6 +37,5 @@ footer{
 
 .cartao-conteudo{
     background-color: var(--cartao-frente);
-    color: var(--branco);
     text-align: center;
 }
