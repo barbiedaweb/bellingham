@@ -26,7 +26,7 @@ criaCartao (
     'É um sinal elétrico que permite a comunicação entre neurônios.' )
     
     criaCartao (
-    'Matematica,
+    'Matematica',
     'Como calcula a soma de pg',
     'Para calcular a soma dos termos de uma progressão geométrica, é possível utilizar a fórmula Sn = a1(qn-1)/q-1.' )
     
@@ -53,12 +53,12 @@ criaCartao (
     'É a parte da Química que estuda os compostos do elemento carbono com propriedades características.' )
     
     criaCartao (
-    'Lingua Portuguesa,
+    'Lingua Portuguesa',
     'Como foi a primeira fase do modernismo',
     'Trouxe para a literatura a inovação e fez uma releitura dos símbolos nacionais.' )
     
     criaCartao (
-    'Matemática,
+    'Matemática',
     'Quais são a propriedades da geometria plana',
     'Geometria plana é a área da matemática que estuda as figuras geométricas bidimensionais, que não possuem volume, como triângulos, retângulos, círculos.' )
     
@@ -80,7 +80,7 @@ criaCartao (
     
     
     criaCartao (
-    'Educação Fisica,
+    'Educação Fisica',
     'O que fazer quando uma pessoa desmaiar',
     'Afastar a vítima de local que proporcione perigo. Deitá-la de barriga para cima, e elevar as pernas acima do tórax (com a cabeça mais baixa em relação ao restante do corpo). Lateralizar a cabeça para facilitar a respiração. Afrouxar as roupas.' )
     
@@ -104,5 +104,4 @@ criaCartao (
     criaCartao (
     'Lingua Portuguesa',
     'Quais são as características da primeira fase do modernismo',
-    'Primeira geração modernista (1922-1930)
-    Antiacademicismo. Liberdade formal. Ironia. Aproximação entre fala e escrita.' )
+    'Primeira geração modernista (1922-1930) Antiacademicismo, Liberdade formal, Ironia, Aproximação entre fala e escrita.' )
