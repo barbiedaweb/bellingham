@@ -40,7 +40,7 @@ footer{
     box-shadow: 2px 2px 2px 2px var(--preto);
 }
 
-.carta0-resposta{
+.cartao-resposta{
     padding: 2rem;
     text-align: center;
     background-color: var(--resposta);
